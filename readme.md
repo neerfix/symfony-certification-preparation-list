@@ -23,20 +23,20 @@ The master branch contains information for the **7.0** certification. For earlie
 -  [PHP and Web Security](/topics/php-and-web-security.md)
     -  [PHP API up to PHP 8.2 version](/topics/php-and-web-security.md#php-api-up-to-php-82-version)
     -  [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming)
-    -  [Namespaces](/topics/php-and-web-security.md#namespaces)
+    -  [Namespaces](/topics/php-and-web-security.md#namespaces) ✅
     -  [Interfaces](/topics/php-and-web-security.md#interfaces)
     -  [Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures)
-    -  [Abstract classes](/topics/php-and-web-security.md#abstract-classes)
+    -  [Abstract classes](/topics/php-and-web-security.md#abstract-classes) ✅
     -  [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling)
     -  [Traits](/topics/php-and-web-security.md#traits)
     -  [PHP extensions](/topics/php-and-web-security.md#php-extensions)
     -  [SPL](/topics/php-and-web-security.md#spl)
 -  [HTTP](/topics/http.md)
-    -  [Client / Server interaction](/topics/http.md#client--server-interaction)
-    -  [Status codes](/topics/http.md#status-codes)
-    -  [HTTP request](/topics/http.md#http-request)
-    -  [HTTP response](/topics/http.md#http-response)
-    -  [HTTP methods](/topics/http.md#http-methods)
+    -  [Client / Server interaction](/topics/http.md#client--server-interaction) ✅
+    -  [Status codes](/topics/http.md#status-codes) ✅
+    -  [HTTP request](/topics/http.md#http-request) ✅
+    -  [HTTP response](/topics/http.md#http-response) ✅
+    -  [HTTP methods](/topics/http.md#http-methods) ✅
     -  [Cookies](/topics/http.md#cookies)
     -  [Caching](/topics/http.md#caching)
     -  [Content negotiation](/topics/http.md#content-negotiation)
@@ -62,8 +62,8 @@ The master branch contains information for the **7.0** certification. For earlie
 -  [Controllers](/topics/controllers.md)
     -  [Naming conventions](/topics/controllers.md#naming-conventions)
     -  [The base AbstractController class](/topics/controllers.md#the-base-abstractcontroller-class)
-    -  [The request](/topics/controllers.md#the-request)
-    -  [The response](/topics/controllers.md#the-response)
+    -  [The request](/topics/controllers.md#the-request) ✅
+    -  [The response](/topics/controllers.md#the-response) ✅
     -  [The cookies](/topics/controllers.md#the-cookies)
     -  [The session](/topics/controllers.md#the-session)
     -  [The flash messages](/topics/controllers.md#the-flash-messages)
@@ -86,13 +86,13 @@ The master branch contains information for the **7.0** certification. For earlie
     -  [User's locale guessing](/topics/routing.md#users-locale-guessing)
     -  [Router debugging](/topics/routing.md#router-debugging)
 -  [Templating with Twig](/topics/templating-with-twig.md)
-    -  [Twig syntax up to 3.8 version](/topics/templating-with-twig.md#twig-syntax-up-to-38-version)
+    -  [Twig syntax up to 3.8 version](/topics/templating-with-twig.md#twig-syntax-up-to-38-version) ✅
     -  [Auto escaping](/topics/templating-with-twig.md#auto-escaping)
-    -  [Template inheritance](/topics/templating-with-twig.md#template-inheritance)
-    -  [Global variables](/topics/templating-with-twig.md#global-variables)
-    -  [Filters and functions](/topics/templating-with-twig.md#filters-and-functions)
-    -  [Template includes](/topics/templating-with-twig.md#template-includes)
-    -  [Loops and conditions](/topics/templating-with-twig.md#loops-and-conditions)
+    -  [Template inheritance](/topics/templating-with-twig.md#template-inheritance) ✅
+    -  [Global variables](/topics/templating-with-twig.md#global-variables) ✅
+    -  [Filters and functions](/topics/templating-with-twig.md#filters-and-functions) ✅
+    -  [Template includes](/topics/templating-with-twig.md#template-includes) ✅
+    -  [Loops and conditions](/topics/templating-with-twig.md#loops-and-conditions) ✅
     -  [URLs generation](/topics/templating-with-twig.md#urls-generation)
     -  [Controller rendering](/topics/templating-with-twig.md#controller-rendering)
     -  [Translations and pluralization](/topics/templating-with-twig.md#translations-and-pluralization)
@@ -100,12 +100,12 @@ The master branch contains information for the **7.0** certification. For earlie
     -  [Assets management](/topics/templating-with-twig.md#assets-management)
     -  [Debugging variables](/topics/templating-with-twig.md#debugging-variables)
 -  [Forms](/topics/forms.md)
-    -  [Forms creation](/topics/forms.md#forms-creation)
+    -  [Forms creation](/topics/forms.md#forms-creation) ✅
     -  [Forms handling](/topics/forms.md#forms-handling)
-    -  [Form types (built-in and custom)](/topics/forms.md#form-types-built-in-and-custom)
-    -  [Forms rendering with Twig](/topics/forms.md#forms-rendering-with-twig)
+    -  [Form types (built-in and custom)](/topics/forms.md#form-types-built-in-and-custom) ✅
+    -  [Forms rendering with Twig](/topics/forms.md#forms-rendering-with-twig) ✅
     -  [Forms theming](/topics/forms.md#forms-theming)
-    -  [CSRF protection](/topics/forms.md#csrf-protection)
+    -  [CSRF protection](/topics/forms.md#csrf-protection) ✅
     -  [Handling file upload](/topics/forms.md#handling-file-upload)
     -  [Built-in form types](/topics/forms.md#built-in-form-types)
     -  [Data transformers](/topics/forms.md#data-transformers)
